@@ -1,8 +1,11 @@
 **Nvim**
 
 Install Neovim with your Packagemanager
+
 Install a Nerdfont (https://www.nerdfonts.com/)
+
 Install the gruvbox Theme for Neovim (https://github.com/ellisonleao/gruvbox.nvim)
+
 Clone the repo, insert the nvim files into ~/.config/ and you good to go.
 
 
